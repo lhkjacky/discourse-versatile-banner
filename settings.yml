@@ -119,7 +119,7 @@ main_heading_content:
                 ネット上の話題・ネタを紹介、注目のニュースをまとめ読み！！
               </p>
             </div>
-<div class="colored-line"></div>
+            <div class="colored-line"></div>
 first_column_content:
   type: string
   textarea: true
